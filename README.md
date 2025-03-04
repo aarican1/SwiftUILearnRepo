@@ -4,11 +4,12 @@ Bu depo SwiftUI öğrenirken geliştirdiğim uygulamalardan oluşmaktadır.
 This repository consists application I developed while learn SwiftUI.
 
 **Appitizers**  
+<img src="https://github.com/user-attachments/assets/d2e3c479-f28d-41b0-9795-612146688373" width="200">
+<img src="https://github.com/user-attachments/assets/abaa0acb-d05a-44df-a212-d2ac65511c0b" width="200">
 <img src="https://github.com/user-attachments/assets/c9e2b048-3e11-41b2-863a-0a654dfb4b74" width="200">
 <img src="https://github.com/user-attachments/assets/adfbe232-a268-48be-992a-bccf855aa0bf" width="200">
 <img src="https://github.com/user-attachments/assets/4b50edcc-b65b-4246-987a-648aa41a006a" width="200">
-<img src="https://github.com/user-attachments/assets/d2e3c479-f28d-41b0-9795-612146688373" width="200">
-<img src="https://github.com/user-attachments/assets/abaa0acb-d05a-44df-a212-d2ac65511c0b" width="200">
+
 
 **Weather App**  
 <img src="https://github.com/user-attachments/assets/de7d6175-6908-44ed-a8ca-d4731805a0d9" width="200">
