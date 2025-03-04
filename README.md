@@ -15,7 +15,8 @@ This repository consists application I developed while learn SwiftUI.
 
 Hava durumu Uygulaması **http://www.7timer.info/** web sitesi ile api çağrıları gerçekteştirilerek geliştirilmiştir.
 
---EN--The Weather App has been developed by making API calls to http://www.7timer.info/.
+--EN--
+The Weather App has been developed by making API calls to http://www.7timer.info/.
 
 <img src="https://github.com/user-attachments/assets/de7d6175-6908-44ed-a8ca-d4731805a0d9" width="150">
 
